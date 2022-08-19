@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'How many tokens do you have?',
+              'How many tokens will you be using?',
             ),
             Text(
               '$_counter',
